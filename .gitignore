@@ -1,0 +1,29 @@
+# Datos y modelos grandes
+data/raw/
+data/processed/
+models/
+*.h5
+*.pkl
+*.csv
+
+# Python y entornos
+__pycache__/
+*.pyc
+*.pyo
+venv/
+env/
+
+# IDEs
+.vscode/
+.idea/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Logs
+logs/
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
